@@ -17,4 +17,4 @@ spring:
     name: limits-service
 limit:
   min: 10
-  max: 5000
+  max: 5001
